@@ -1,0 +1,13 @@
+Requisitos funcionais
+- RF01: O sistema deve permitir cadastrar contas de luz com data de leitura, número da leitura, consumo em KW, valor a pagar e data de pagamento.
+- RF02: O sistema deve calcular automaticamente a média diária de consumo com base no KW gasto.
+- RF03: O sistema deve listar os registros cadastrados em formato tabular.
+- RF04: O sistema deve identificar e exibir o mês de menor consumo.
+- RF05: O sistema deve identificar e exibir o mês de maior consumo.
+
+
+Requisitos não funcionais
+- RNF01: A interface deve ser web e interativa, com atualização imediata após o cadastro.
+- RNF02: Os valores monetários devem ser exibidos com duas casas decimais.
+- RNF03: Datas devem ser exibidas no padrão brasileiro (dd/mm/aaaa).
+- RNF04: Os dados devem permanecer disponíveis durante a sessão ativa do usuário.

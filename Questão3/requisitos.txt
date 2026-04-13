@@ -1,0 +1,11 @@
+Requisitos funcionais
+- RF01: O sistema deve permitir definir e alterar o nome do boneco.
+- RF02: O sistema deve exibir as coordenadas X e Y atuais do boneco.
+- RF03: O sistema deve permitir mover o boneco para cima, baixo, esquerda e direita.
+- RF04: O sistema deve atualizar a direção atual após cada movimento.
+- RF05: O sistema deve manter o estado do boneco entre interações da sessão.
+
+Requisitos não funcionais
+- RNF01: Os comandos de movimento devem ser executados com baixa latência.
+- RNF02: A modelagem de direção deve usar enum para padronização dos valores.
+- RNF03: A interface deve priorizar usabilidade com botões direcionais claros.

@@ -1,0 +1,11 @@
+Requisitos funcionais
+- RF01: O sistema deve permitir informar texto livre para exibição.
+- RF02: O sistema deve permitir configurar tamanho da fonte.
+- RF03: O sistema deve permitir selecionar cor da fonte e cor de fundo.
+- RF04: O sistema deve permitir escolher o tipo de componente de saída (label, edit, memo).
+- RF05: O sistema deve renderizar o conteúdo conforme o tipo de componente escolhido.
+
+Requisitos não funcionais
+- RNF01: A interface deve oferecer visualização centralizada e simples para uso didático.
+- RNF02: As cores disponíveis devem ser controladas por enumeração para evitar valores inválidos.
+- RNF03: O tempo de resposta para renderização deve ser imediato após clique em “Exibir”.
